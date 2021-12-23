@@ -11,14 +11,14 @@
 ## Getting started
 
 ```
-    $ git clone https://github.com/ChanMo/voting
-    $ cd voting
-    $ npx ganache-cli # or use ganache-ui
-    $ npx truffle build
-    $ npx truffle migrate
-    $ cd client
-    $ npm install
-    $ npm run start
+$ git clone https://github.com/ChanMo/voting
+$ cd voting
+$ npx ganache-cli # or use ganache-ui
+$ npx truffle build
+$ npx truffle migrate
+$ cd client
+$ npm install
+$ npm run start
 ```
 
 ## Reference
